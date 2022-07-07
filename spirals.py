@@ -1,8 +1,4 @@
 """
-:author: Anh Hoang
-2022 Mar 11
-Homework 5
-
 A file containing Turtle library to create unique designs
 
 """
